@@ -186,8 +186,8 @@ ItemDisplay[NMAG !RW SOCK=3 CLVL<40 EQ3]: %SAGE%Ancient's Pledge Base%!SOCK!%%!B
 ItemDisplay[NMAG !RW SOCK=0 CLVL<70 ILVL>25 ILVL<41 crs]: %SAGE%Spirit Sword Base%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW SOCK=4 crs FILTERLVL=1]: %SAGE%Spirit Sword Base%!SOCK!%%!BASENAME!% {%ORANGE%SPIRIT: %SAGE%TAL+THUL+ORT+AMN} <<BASE>>
 ItemDisplay[NMAG !RW SOCK=0 CLVL<70 ILVL>25 ILVL<41 bsd]: %SAGE%Spirit Sword Base%!SOCK!%%!BASENAME!% <<BASE>>
-ItemDisplay[NMAG !RW !ETH SOCK=0 CLVL<99 ILVL>1 ILVL<99 7wa ]: %SAGE%Berserker Axe%!SOCK!%%!BASENAME!% <<BASE>>
-ItemDisplay[NMAG !RW !ETH SOCK=6 CLVL<99 ILVL>1 ILVL<99 7wa ]: %SAGE%Berserker Axe%!SOCK!%%!BASENAME!% <<BASE>>
+ItemDisplay[NMAG !RW ETH SOCK=0 CLVL<99 ILVL>1 ILVL<99 7wa ]: %SAGE%Berserker Axe%!SOCK!%%!BASENAME!% <<BASE>>
+ItemDisplay[NMAG !RW ETH SOCK=6 CLVL<99 ILVL>1 ILVL<99 7wa ]: %SAGE%Berserker Axe%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=6 CLVL<99 ILVL>1 ILVL<99 72h ]: %SAGE%Legend Sword%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=3 CLVL<99 ILVL>1 ILVL<99 72h ]: %SAGE%Legend Sword%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=0 CLVL<99 ILVL>1 ILVL<99 72h ]: %SAGE%Legend Sword%!SOCK!%%!BASENAME!% <<BASE>>
