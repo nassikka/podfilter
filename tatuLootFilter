@@ -103,9 +103,9 @@ ItemDisplay[(r30 OR r31)]: %!TOPTIER!% %BOLD%%NAME% %!TOPEND!% <<HRUNE>>
 
 //-------------------------------------------------------- RELICS
 //Tier 1 white
-ItemDisplay[MAP MAPTIER=1 !ID]: %!LOWTIER!% %WHITE%Tier I%NL%%NAME% %!LOWEND!% <<RELIC>>
-ItemDisplay[MAP RARE MAPTIER=1 ID]: %!LOWTIER!% %WHITE%Tier I%NL%%YELLOW%%BASENAME% %!LOWEND!% <<RELIC>>
-ItemDisplay[MAP MAG MAPTIER=1 ID]: %!LOWTIER!% %WHITE%Tier I%NL%%BLUE%%BASENAME% %!LOWEND!% <<RELIC>>
+ItemDisplay[MAP MAPTIER=1 !ID]: %WHITE%Tier I%NL%%NAME% <<RELIC>>
+ItemDisplay[MAP RARE MAPTIER=1 !ID]: %WHITE%Tier I%NL%%NAME% <<RELIC>>
+ItemDisplay[MAP MAG MAPTIER=1 !ID]: %WHITE%Tier I%NL%%NAME% <<RELIC>>
 //Tier 2 yellow
 ItemDisplay[MAP MAPTIER=2 !ID]: %!MIDTIER!% %YELLOW%Tier II%NL%%NAME% %!MIDEND!% <<RELIC>>
 ItemDisplay[MAP RARE MAPTIER=2 ID]: %!MIDTIER!% %YELLOW%Tier II%NL%%YELLOW%%BASENAME% %!MIDEND!% <<RELIC>>
@@ -188,7 +188,8 @@ ItemDisplay[NMAG !RW SOCK=4 crs FILTERLVL=1]: %SAGE%Spirit Sword Base%!SOCK!%%!B
 ItemDisplay[NMAG !RW SOCK=0 CLVL<70 ILVL>25 ILVL<41 bsd]: %SAGE%Spirit Sword Base%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=4 CLVL<99 ILVL>1 ILVL<99 uld ]: %SAGE%Kraken Shell%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=4 CLVL<99 ILVL>1 ILVL<99 uld ]: %SAGE%Kraken Shell%!SOCK!%%!BASENAME!% <<BASE>>
-ItemDisplay[NMAG !RW ETH SOCK=0 CLVL<99 ILVL>1 ILVL<99 7wa ]: %SAGE%Berserker Axe%!SOCK!%%!BASENAME!% <<BASE>>
+ItemDisplay[NMAG !RW ETH SOCK=0 CLVL<99 ILVL>1 ILVL<99 7gd ]: %SAGE%Colossus blade%!SOCK!%%!BASENAME!% <<BASE>>
+ItemDisplay[NMAG !RW ETH SOCK=6 CLVL<99 ILVL>1 ILVL<99 7gd ]: %SAGE%Colossus blade%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=4 CLVL<99 ILVL>1 ILVL<99 uar ]: %SAGE%Sacred Armor%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=6 CLVL<99 ILVL>1 ILVL<99 72h ]: %SAGE%Legend Sword%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=3 CLVL<99 ILVL>1 ILVL<99 72h ]: %SAGE%Legend Sword%!SOCK!%%!BASENAME!% <<BASE>>
