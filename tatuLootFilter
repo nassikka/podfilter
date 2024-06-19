@@ -987,8 +987,8 @@ ItemDisplay[gfv CLVL<30]: %PURPLE%+%WHITE%Flawed %PURPLE%Amethyst <:GEM: Backgro
 ItemDisplay[gfv CLVL>29]: //- HIDES
 ItemDisplay[gsv CLVL<30]: %PURPLE%+%PURPLE%Amethyst <:GEM: BackgroundColor = 75>
 ItemDisplay[gsv CLVL>29]: //- HIDES
-ItemDisplay[gzv CLVL<50]: %PURPLE%+%WHITE%F Amethyst  <:GEM: BackgroundColor = RGB(0/0/255)>
-ItemDisplay[gzv CLVL>49]: //- HIDES
+ItemDisplay[gzv CLVL<99]: %PURPLE%+%WHITE%F Amethyst<:GEM: BackgroundColor = RGB(0/0/255)>
+ItemDisplay[gzv CLVL>98]: //- HIDES
 ItemDisplay[gpv]: %NL%%PURPLE%+%WHITE%P %PURPLE%Ame%WHITE%%NL%%NL% <:GEM: BackgroundColor = 75>
 //-------------------------------------------------------- Emerald
 ItemDisplay[gcg CLVL<30]: %PURPLE%+%WHITE%Chipped %GREEN%Emerald <:GEM: BackgroundColor = 121>
@@ -997,8 +997,8 @@ ItemDisplay[gfg CLVL<30]: %PURPLE%+%WHITE%Flawed %GREEN%Emerald <:GEM: Backgroun
 ItemDisplay[gfg CLVL>29]: //- HIDES
 ItemDisplay[gsg CLVL<30]: %PURPLE%+%GREEN%Emerald <:GEM: BackgroundColor = 121>
 ItemDisplay[gsg CLVL>29]: //- HIDES
-ItemDisplay[glg CLVL<50]: %PURPLE%+%WHITE%F Emerald  <:GEM: BackgroundColor = RGB(0/0/255)>
-ItemDisplay[glg CLVL>49]: //- HIDES
+ItemDisplay[glg CLVL<99]: %PURPLE%+%WHITE%F Emerald<:GEM: BackgroundColor = RGB(0/0/255)>
+ItemDisplay[glg CLVL>98]: //- HIDES
 ItemDisplay[gpg]: %NL%%PURPLE%+%WHITE%P %GREEN%Eme%NL%%NL% <:GEM: BackgroundColor = 121>
 //-------------------------------------------------------- Ruby
 ItemDisplay[gcr CLVL<30]: %PURPLE%+%WHITE%Chipped %RED%Ruby <:GEM: BackgroundColor = 98>
@@ -1007,8 +1007,8 @@ ItemDisplay[gfr CLVL<30]: %PURPLE%+%WHITE%Flawed %RED%Ruby <:GEM: BackgroundColo
 ItemDisplay[gfr CLVL>29]: //- HIDES
 ItemDisplay[gsr CLVL<30]: %PURPLE%+%RED%Ruby <:GEM: BackgroundColor = 98>
 ItemDisplay[gsr CLVL>29]: //- HIDES
-ItemDisplay[glr CLVL<50]: %PURPLE%+%WHITE%F Ruby  <:GEM: BackgroundColor = RGB(0/0/255)>
-ItemDisplay[glr CLVL>49]: //- HIDES
+ItemDisplay[glr CLVL<99]: %PURPLE%+%WHITE%F Ruby<:GEM: BackgroundColor = RGB(0/0/255)>
+ItemDisplay[glr CLVL>98]: //- HIDES
 ItemDisplay[gpr]: %NL%%PURPLE%+%WHITE%P %RED%Ruby%NL%%NL% <:GEM: BackgroundColor = 98>
 //-------------------------------------------------------- Sapphire
 ItemDisplay[gcb CLVL<30]: %PURPLE%+%WHITE%Chipped %BLUE%Sapphire  <:GEM: BackgroundColor = RGB(0/0/255)>
@@ -1017,8 +1017,8 @@ ItemDisplay[gfb CLVL<30]: %PURPLE%+%WHITE%Flawed %BLUE%Sapphire  <:GEM: Backgrou
 ItemDisplay[gfb CLVL>29]: //- HIDES
 ItemDisplay[gsb CLVL<30]: %PURPLE%+%BLUE%Sapphire  <:GEM: BackgroundColor = RGB(0/0/255)>
 ItemDisplay[gsb CLVL>29]: //- HIDES
-ItemDisplay[glb CLVL<50]: %PURPLE%+%WHITE%F Sapphire  <:GEM: BackgroundColor = RGB(0/0/255)>
-ItemDisplay[glb CLVL>49]: //- HIDES
+ItemDisplay[glb CLVL<99]: %PURPLE%+%WHITE%F Sapphire<:GEM: BackgroundColor = RGB(0/0/255)>
+ItemDisplay[glb CLVL>98]: //- HIDES
 ItemDisplay[gpb]: %NL%%PURPLE%+%WHITE%P %BLUE%Sap%NL%%NL%  <:GEM: BackgroundColor = RGB(0/0/255)>
 //-------------------------------------------------------- Topaz
 ItemDisplay[gcy CLVL<30]: %PURPLE%+%WHITE%Chipped %YELLOW%Topaz%WHITE% <:GEM: BackgroundColor = 111>
@@ -1027,8 +1027,8 @@ ItemDisplay[gfy CLVL<30]: %PURPLE%+%WHITE%Flawed %YELLOW%Topaz%WHITE% <:GEM: Bac
 ItemDisplay[gfy CLVL>29]: //- HIDES
 ItemDisplay[gsy CLVL<30]: %PURPLE%+%YELLOW%Topaz%WHITE% <:GEM: BackgroundColor = 111>
 ItemDisplay[gsy CLVL>29]: //- HIDES
-ItemDisplay[gly CLVL<50]: %PURPLE%+%WHITE%F Topaz  <:GEM: BackgroundColor = RGB(0/0/255)>
-ItemDisplay[gly CLVL>49]: //- HIDES
+ItemDisplay[gly CLVL<99]: %PURPLE%+%WHITE%F Topaz<:GEM: BackgroundColor = RGB(0/0/255)>
+ItemDisplay[gly CLVL>98]: //- HIDES
 ItemDisplay[gpy]: %NL%%PURPLE%+%WHITE%P %YELLOW%Topaz%NL%%NL% <:GEM: BackgroundColor = 111>
 //-------------------------------------------------------- Diamond
 ItemDisplay[gcw CLVL<30]: %PURPLE%+%WHITE%Chipped %WHITE%Diamond%WHITE% <:GEM: BackgroundColor = 32>
@@ -1037,8 +1037,8 @@ ItemDisplay[gfw CLVL<30]: %PURPLE%+%WHITE%Flawed %WHITE%Diamond%WHITE% <:GEM: Ba
 ItemDisplay[gfw CLVL>29]: //- HIDES
 ItemDisplay[gsw CLVL<30]: %PURPLE%+%WHITE%Diamond%WHITE% <:GEM: BackgroundColor = 32>
 ItemDisplay[gsw CLVL>29]: //- HIDES
-ItemDisplay[glw CLVL<50]: %PURPLE%+%WHITE%F Diamond  <:GEM: BackgroundColor = RGB(0/0/255)>
-ItemDisplay[glw CLVL>49]: //- HIDES
+ItemDisplay[glw CLVL<99]: %PURPLE%+%WHITE%F Diamond<:GEM: BackgroundColor = RGB(0/0/255)>
+ItemDisplay[glw CLVL>98]: //- HIDES
 ItemDisplay[gpw]: %NL%%PURPLE%+%WHITE%P Dia%NL%%NL% <:GEM: BackgroundColor = 32>
 //-------------------------------------------------------- Skull
 ItemDisplay[skc CLVL<30]: %PURPLE%+%PURPLE%Chipped %GOLD%Skull <:GEM: BackgroundColor = 28>
