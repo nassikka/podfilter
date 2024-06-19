@@ -184,12 +184,10 @@ ItemDisplay[box]: %NAME%{%GOLD%Exceptional Armor > %ORANGE%Lem + Ko + %WHITE%Dia
 //-------------------------------------------------------- EARLY BASES  
 ItemDisplay[NMAG !RW SOCK=3 CLVL<40 EQ3]: %SAGE%Ancient's Pledge Base%!SOCK!%%!BASENAME!% {%ORANGE%ANCIENT'S PLEDGE: %SAGE%RAL+ORT+TAL} <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=4 CLVL<99 ILVL>1 ILVL<99 uld ]: %SAGE%Kraken Shell%!SOCK!%%!BASENAME!% <<BASE>>
-ItemDisplay[NMAG !RW ETH SOCK=4 CLVL<99 ILVL>1 ILVL<99 uld ]: %SAGE%Kraken Shell%!SOCK!%%!BASENAME!% <<BASE>>
-ItemDisplay[NMAG !RW ETH SOCK=0 CLVL<99 ILVL>1 ILVL<99 7gd ]: %SAGE%Colossus blade%!SOCK!%%!BASENAME!% <<BASE>>
-ItemDisplay[NMAG !RW ETH SOCK=6 CLVL<99 ILVL>1 ILVL<99 7gd ]: %SAGE%Colossus blade%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW ETH SOCK=4 CLVL<99 ILVL>1 ILVL<99 uar ]: %SAGE%Sacred Armor%!SOCK!%%!BASENAME!% <<BASE>>
-ItemDisplay[NMAG !RW ETH SOCK=3 CLVL<99 ILVL>1 ILVL<99 72h ]: %SAGE%Legend Sword%!SOCK!%%!BASENAME!% <<BASE>>
-ItemDisplay[NMAG !RW ETH SOCK=0 CLVL<99 ILVL>1 ILVL<99 72h ]: %SAGE%Legend Sword%!SOCK!%%!BASENAME!% <<BASE>>
+ItemDisplay[NMAG !RW !ETH SOCK=4 CLVL<99 ILVL>1 ILVL<99 atp ]: %SAGE%Archon Plate%!SOCK!%%!BASENAME!% <<BASE>>
+ItemDisplay[NMAG !RW ETH SOCK=6 CLVL<99 ILVL>1 ILVL<99 7wc ]: %SAGE%Giant Thresher%!SOCK!%%!BASENAME!% <<BASE>>
+ItemDisplay[NMAG !RW ETH SOCK=0 CLVL<99 ILVL>1 ILVL<99 7wc ]: %SAGE%Giant Thresher%!SOCK!%%!BASENAME!% <<BASE>>
 ItemDisplay[NMAG !RW SOCK=4 CLVL<40 WP8]: %!LOWTIER!% %SAGE%Insight Merc Base%!SOCK!%%!BASENAME!% {%ORANGE%INSIGHT: %SAGE%RAL+TIR+TAL+SOL} %!LOWEND!% <<BASE>>
 ItemDisplay[NMAG !RW SOCK=2 CLVL<25 brs]: %SAGE%Stealth Base%!SOCK!%%!BASENAME!% {%ORANGE%STEALTH: %SAGE%TAL+ETH} <<BASE>>
 ItemDisplay[NMAG !RW SOCK=2 CLVL<25 EQ1]: %SAGE%Lore Base%!SOCK!%%!BASENAME!% {%ORANGE%LORE: %SAGE%ORT+SOL} <<BASE>>
